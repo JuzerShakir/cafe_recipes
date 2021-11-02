@@ -35,7 +35,7 @@ body				{
 						margin-right:17px;
 						margin-bottom:5px;
 						width: 350px;
-						float:right;
+						float: right;
 					}
 
 #topnav ul			{
@@ -45,7 +45,7 @@ body				{
 #topnav ul li		{
 						display: inline-flex;
 						justify-content: right;
-						margin-left: 20px;
+						margin-left: 15px;
 					}
 
 #topnav a			{
