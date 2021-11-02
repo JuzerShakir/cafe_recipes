@@ -62,6 +62,9 @@ a:link				{
 a:hover				{
 						color: #E00003;
 					}
+a:visited				{
+						color: #00A108;
+					}
 				
 #banner				{
 						clear: both;
